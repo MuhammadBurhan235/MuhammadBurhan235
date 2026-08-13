@@ -1,5 +1,4 @@
 <p align="center" dir="auto">
-  <!-- Replace this section with your own hero image/animation if you want -->
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -20,31 +19,31 @@
 
 ## Hey, I'm Muhammad Burhan
 
-I'm a **Software Engineer** and **Full-Stack Developer** based in Tangerang, Indonesia. I specialize in building robust web applications and database architectures, turning complex requirements into clean, scalable code.
-
-I enjoy taking ownership of the full development lifecycle: designing the frontend interface, engineering the backend logic, and ensuring smooth database operations.
+I'm a **Software Engineer** and **Full-Stack Developer** based in Tangerang, Indonesia. I specialize in building robust web applications, progressive web apps (PWAs), and complex backend architectures that turn intricate institutional requirements into clean, scalable code.
 
 ## What I Build
 
-*   **Full-stack web applications:** End-to-end development using modern frameworks and robust backend systems.
-*   **Database architecture & management:** Designing efficient schemas and managing data flow using MySQL and PostgreSQL.
-*   **Custom plugins & integrations:** Building tailored solutions like Learning Management Systems (LMS) and custom document handlers.
-*   **Interactive interfaces:** Creating user-friendly dashboards and chat interfaces.
+*   **Full-stack web applications:** End-to-end development using modern frameworks (React, Vue/Nuxt) and robust backend systems.
+*   **Custom LMS & Portals:** Developing tailored workflow solutions on top of platforms like Moodle and WordPress.
+*   **Database architecture & management:** Designing efficient schemas, dynamic CSV parsing, and managing data flow using MySQL and PostgreSQL.
+*   **Progressive Web Apps (PWAs):** Building responsive, mobile-first applications with offline capabilities and real-time data visualization.
 
 ## Selected Work
 
-| Project | What I built | My role |
+| Project | What I built | Tech Stack |
 | :--- | :--- | :--- |
-| **ATLAS (Aviation Training & Learning Application System)** | A customized Moodle-based Learning Management System for an aviation training bureau, digitalizing registration workflows. | Full-Stack Developer |
-| **SIVA AI Chatbot** | A custom FAQ chatbot interface linked to the Gemini API for localized content retrieval, with frontend chat bubbles modeled after organizational tools. | AI Integration & Frontend Developer |
-| **ppic-embedder** | A custom WordPress shortcode plugin to render inline document views for PDF, Word, and Excel files. | Plugin Developer |
-| **Organizational Record Tracker** | A web application using React TSX and Tailwind CSS integrated with the Google Sheets API for automated data syncing and real-time transaction tracking. | Frontend Engineer |
+| **ATLAS (Aviation Training & Learning Application System)** | A suite of custom Moodle plugins handling the full end-to-end aviation training workflow, including self-service iPaymu payments and automated class scheduling. | PHP, Moodle API, HTML/CSS |
+| **Susi Air Ops - Pilot Operations** | A Progressive Web App (PWA) prototype for pilot operations, featuring rolling flight-hour limit calculations and operational document tracking. | Nuxt 4, Vue 3, Tailwind CSS, Pinia, Chart.js |
+| **Custom Element WPBakery – PPIC** | A modular WordPress plugin delivering 100+ drag-and-drop shortcode elements with dynamic CSV-driven content parsing and multi-facet filtering. | PHP, WordPress, WPBakery, Vanilla JS, CSS3 |
 
-## Tools I Use
+## Tools & Technologies
 
-`PHP` · `JavaScript` · `React` · `TypeScript` · `Tailwind CSS` · `MySQL` · `PostgreSQL` · `Supabase` · `WordPress` · `Figma`
+**Languages & Frameworks:** `PHP` · `JavaScript` · `TypeScript` · `React` · `Vue 3` · `Nuxt 4` <br>
+**Styling & UI:** `Tailwind CSS` · `SCSS` · `CSS3` <br>
+**Databases & Backend:** `MySQL` · `PostgreSQL` · `Supabase` · `Moodle` · `WordPress` <br>
+**Infrastructure & Tools:** `VPS Deployment` · `PM2` · `Docker (Reverse Proxy)` · `Figma`
 
 ---
 <p align="center" dir="auto">
-  Focusing on scalable architectures and clean code.
+  Focusing on scalable architectures, modular design, and clean code.
 </p>
