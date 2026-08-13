@@ -2,11 +2,11 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/MuhammadBurhan235/MuhammadBurhan235/main/assets/hero-dark.svg"
+      srcset="https://raw.githubusercontent.com/MuhammadBurhan235/MuhammadBurhan235/main/builder-profile-burhan-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/MuhammadBurhan235/MuhammadBurhan235/main/assets/hero-light.svg"
+      srcset="https://raw.githubusercontent.com/MuhammadBurhan235/MuhammadBurhan235/main/builder-profile-burhan-dark.svg"
     />
     <img
       src="https://via.placeholder.com/800x300/0d1117/58a6ff?text=Welcome+to+My+Profile"
