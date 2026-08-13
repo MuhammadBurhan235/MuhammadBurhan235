@@ -6,7 +6,7 @@
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/MuhammadBurhan235/MuhammadBurhan235/main/builder-profile-burhan-dark.svg"
+      srcset="https://raw.githubusercontent.com/MuhammadBurhan235/MuhammadBurhan235/main/builder-profile-burhan-light.svg"
     />
     <img
       src="https://via.placeholder.com/800x300/0d1117/58a6ff?text=Welcome+to+My+Profile"
