@@ -1,10 +1,6 @@
 <p align="center" dir="auto">
   <picture>
     <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/MuhammadBurhan235/MuhammadBurhan235/main/builder-profile-burhan-dark.svg"
-    />
-    <source
       media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/MuhammadBurhan235/MuhammadBurhan235/main/builder-profile-burhan-light.svg"
     />
