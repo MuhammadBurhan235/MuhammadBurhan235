@@ -1,6 +1,9 @@
 <p align="center" dir="auto">
-  <img src="https://raw.githubusercontent.com/MuhammadBurhan235/MuhammadBurhan235/main/builder-profile-burhan-dark.svg#gh-dark-mode-only" width="100%" alt="Muhammad Burhan Profile Dark">
-  <img src="https://raw.githubusercontent.com/MuhammadBurhan235/MuhammadBurhan235/main/builder-profile-burhan-light.svg#gh-light-mode-only" width="100%" alt="Muhammad Burhan Profile Light">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadBurhan235/MuhammadBurhan235/main/builder-profile-burhan-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadBurhan235/MuhammadBurhan235/main/builder-profile-burhan-light.svg">
+    <img alt="Muhammad Burhan, Software Engineer" src="https://raw.githubusercontent.com/MuhammadBurhan235/MuhammadBurhan235/main/builder-profile-burhan-dark.svg" width="100%" style="max-width: 100%">
+  </picture>
 </p>
 
 ## Hey, I'm Muhammad Burhan
