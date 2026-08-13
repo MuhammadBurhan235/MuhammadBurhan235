@@ -1,13 +1,8 @@
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./builder-profile-burhan-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./builder-profile-burhan-light.svg">
-    <img
-      src="https://via.placeholder.com/800x300/0d1117/58a6ff?text=Welcome+to+My+Profile"
-      alt="Muhammad Burhan, Software Engineer"
-      width="100%"
-      style="max-width: 100%"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadBurhan235/MuhammadBurhan235/main/builder-profile-burhan-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadBurhan235/MuhammadBurhan235/main/builder-profile-burhan-light.svg">
+    <img alt="Muhammad Burhan, Software Engineer" src="https://raw.githubusercontent.com/MuhammadBurhan235/MuhammadBurhan235/main/builder-profile-burhan-dark.svg" width="100%" style="max-width: 100%">
   </picture>
 </p>
 
